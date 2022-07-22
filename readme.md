@@ -7,3 +7,6 @@ xD
 
 #234
 #73755	
+/readme this O.o
+<head> Hola mundo <head>
+editado
