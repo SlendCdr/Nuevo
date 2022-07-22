@@ -10,3 +10,6 @@ xD
 /readme this O.o
 <head> Hola mundo <head>
 editado
+Se hizo un merge de rama1 y 2 en 1
+luego se elimino rama2
+B)
